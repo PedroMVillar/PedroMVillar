@@ -4,14 +4,12 @@
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Presiona%20para%20ir%20al%20porfolio%20personal%20-%20gray?style=flat-square&logo=adguard&link=https%3A%2F%2Fpedromvillar.github.io%2Fpersonal-portfolio%2F)
-![Static Badge](https://img.shields.io/badge/Instagram%20-%20white?style=social&logo=Instagram&link=https%3A%2F%2Finstagram.com%2Fhttps%3A%2F%2Finstagram.com%2Fvillar_pedro_%3Figshid%3DNTc4MTIwNjQ2YQ%3D%3D)
-![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20white?style=social&logo=Linkedin&link=https%3A%2F%2Flinkedin.com%2Fin%2Fhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedro-villar-4261491bb%2F)
-![Static Badge](https://img.shields.io/badge/pedro.villar%40mi.unc.edu.ar%20-%20white?style=social&logo=Gmail&link=https%3A%2F%2Flinkedin.com%2Fin%2Fhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedro-villar-4261491bb%2F)
-![GitHub followers](https://img.shields.io/github/followers/PedroMVillar)
-![GitHub User's stars](https://img.shields.io/github/stars/PedroMVillar)
-
-
+<a href="https://pedromvillar.github.io/personal-portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/Presiona%20para%20visitar%20mi%20portfolio%20-%20gray?style=flat&logo=docsify"></a>
+<a href="https://www.instagram.com/villar_pedro_?igsh=MWw4andraGVid3EzMA=="><img alt="Static Badge" src="https://img.shields.io/badge/Instagram%20-%20white?style=social&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/pedro-villar-4261491bb/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20white?style=social&logo=linkedin"></a>
+<a href="pedro.villar@mi.unc.edu.ar"><img alt="Static Badge" src="https://img.shields.io/badge/pedro.villar%40mi.unc.edu.ar%20-%20white?style=social&logo=gmail"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/PedroMVillar">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PedroMVillar">
 
 <h3 align="center"> 📟 Proyectos </h3>
 
