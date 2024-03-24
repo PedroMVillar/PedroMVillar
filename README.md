@@ -19,7 +19,7 @@
 | - | - |
 | ![Static Badge](https://img.shields.io/badge/Haskell%20-%20purple?style=for-the-badge&logo=Haskell) | <a href="https://github.com/PedroMVillar/Limit-Calculator-in-Haskell"> <img alt="Static Badge" src="https://img.shields.io/badge/limit%20calculator%20-%20black?style=flat&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FPedroMVillar%2FLimit-Calculator-in-Haskell"> </a>|
 | ![Static Badge](https://img.shields.io/badge/C%2B%2B%20-%20lightblue?style=for-the-badge&logo=C%2B%2B) | <a href="https://github.com/PedroMVillar/sudoku-solver-backtracking"> <img alt="Static Badge" src="https://img.shields.io/badge/sudoku%20solver%20-%20black?style=flat&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FPedroMVillar%2Fsudoku-solver-backtracking"> </a>|
-| ![Static Badge](https://img.shields.io/badge/Fortran%20-%20violet?style=for-the-badge&logo=Fortran) | |
+| ![Static Badge](https://img.shields.io/badge/Fortran%20-%20violet?style=for-the-badge&logo=Fortran) | <a href="https://github.com/PedroMVillar/f90-projects"> <img alt="Static Badge" src="https://img.shields.io/badge/f90%20projects%20-%20black?style=flat&logo=github"> </a> <a href="https://github.com/PedroMVillar/Backtracking-Fortran-projects"> <img alt="Static Badge" src="https://img.shields.io/badge/Backtracking%20Fortran%20projects%20-%20black?style=flat&logo=github"> </a>|
 | ![Static Badge](https://img.shields.io/badge/Typescript%20-%20lightblue?style=for-the-badge&logo=Typescript) | <a href="https://github.com/PedroMVillar/personal-portfolio"> <img alt="Static Badge" src="https://img.shields.io/badge/personal%20portfolio%20-%20black?style=flat&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FPedroMVillar%2Fpersonal-portfolio"> </a>|
 
 ---
