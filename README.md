@@ -2,6 +2,8 @@
 
 <h3 align="center"> 👨‍💻 Estudiante de Ciencias de la Computación </h3>
 
+📔[Apuntes y material de cursada](https://github.com/FaMAF-Material)
+
 ---
 
 <a href="https://pedromvillar.github.io/personal-portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/Presiona%20para%20visitar%20mi%20portfolio%20-%20gray?style=flat&logo=docsify"></a>
