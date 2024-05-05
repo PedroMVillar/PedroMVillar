@@ -13,8 +13,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/PedroMVillar">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PedroMVillar">
 
-<h3 align="center"> 📟 Proyectos </h3>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PedroMVillar&icon=0&color=0)](https://visitcount.itsvg.in)
